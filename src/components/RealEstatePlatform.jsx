@@ -74,7 +74,7 @@ export default function RealEstatePlatform() {
                   borderBottomLeftRadius: '4px',
                   bgcolor: 'rgba(0, 0, 0, 0.04)'
                 }}>
-                  <span>IN +91</span>
+                  <span>+91</span>
                 </Box>
                 <TextField
                   fullWidth
